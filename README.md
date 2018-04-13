@@ -1,4 +1,6 @@
 # vue-router
+[]('/preview/rounting-in-vue.png')
+[]('/preview/final-preview.gif')
 
 > A Vue.js project
 
