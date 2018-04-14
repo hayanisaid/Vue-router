@@ -1,6 +1,7 @@
-# vue-router
-[]('/preview/rounting-in-vue.png')
-[]('/preview/final-preview.gif')
+
+![image](preview/routing-in-vue.png)
+
+![image](preview/finale-preview.gif)
 
 > A Vue.js project
 
